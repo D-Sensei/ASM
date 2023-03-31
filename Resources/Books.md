@@ -10,7 +10,7 @@
 On this level, it's all about practising,believe me. Just don't skip anything. . . . <br>
 - Go do some reverse engineering on . . . shady chinese programs<br>
     - What if it infects my system;<br>
-          - Bch,That's how we learn it, the hard way_(virtual machine is for weak mortals, assembly programmers believe in the dynamic test of the programme. (don't take it seriously)<br>
+          - Bch,That's how we learn it, the hard way_(virtual machine is for weak mortals, assembly programmers believe in dynamic test of the programme. (don't take it seriously)<br>
           - First try understanding the logic behind the program like what you understood and how much of it was correct
 
 ## Level 3 - Intermediate to Advance 
