@@ -1,0 +1,52 @@
+.MODEL SMALL
+.STACK 100H
+
+.DATA
+    MSG1 DB "Enter a number to find its factorial: $"
+    MSG2 DB "The factorial of the given number is: $"
+    NL DB 0DH, 0AH, "$"
+    NUM DW ?
+
+.CODE
+    MAIN PROC
+        MOV AX, @DATA
+        MOV DS, AX
+
+        ; display message to enter a number
+        LEA DX, MSG1
+        MOV AH, 09H
+        INT 21H
+
+        ; read number from user
+        MOV AH, 01H
+        INT 21H
+        SUB AL, '0'
+        MOV NUM, AX
+
+        ; calculate factorial
+        MOV BX, 1
+        MOV CX, NUM
+        LOOP1:
+            MUL BX
+            INC BX
+            LOOP LOOP1
+
+        ; display message with factorial result
+        LEA DX, MSG2
+        MOV AH, 09H
+        INT 21H
+        MOV AX, BX
+        ADD AX, 30H
+        MOV DL, AH
+        MOV AH, 02H
+        INT 21H
+
+        ; display newline character
+        LEA DX, NL
+        MOV AH, 09H
+        INT 21H
+
+        MOV AH, 4CH
+        INT 21H
+    MAIN ENDP
+END MAIN
