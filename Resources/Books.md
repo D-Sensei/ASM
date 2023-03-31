@@ -8,12 +8,12 @@
 
 ## Level 2 From NΦVICE to Intermediate
 On this level, it's all about practising,believe me. Just don't skip anything. . . . <br>
-- Go do some reverse engineering sh*t on . . . shady chinese programs<br>
+- Go do some reverse engineering on . . . shady chinese programs<br>
     - What if it infects my system;<br>
-          - Bch,That's how we learn it, the hard way_.<br>
+          - Bch,That's how we learn it, the hard way_(virtual machine is for weak mortals, assembly programmers believe in the dynamic test of the programme. (don't take it seriously)<br>
+          - First try understanding the logic behind the program like what you understood and how much of it was correct
 
 ## Level 3 - Intermediate to Advance 
-Bruuuuuuuh, know that you a fucking genius. You have my utmost respect, soldier.<br>
 "Professional Assembly Language" by Richard Blum - This book covers advanced topics such as 64-bit programming, floating-point operations, and optimization techniques.<br>
 "Assembly Language for x86 Processors" by Kip R. Irvine - This book covers advanced topics such as memory management, interrupts, and system-level programming.<br>
 "The Art of Assembly Language" by Randall Hyde - This book covers advanced topics such as high-level assembly language, self-modifying code, and optimization techniques.<br>
@@ -21,5 +21,5 @@ Bruuuuuuuh, know that you a fucking genius. You have my utmost respect, soldier.
 "Introduction to 64 Bit Assembly Programming for Linux and OS X" by Ray Seyfarth - This book covers advanced topics such as 64-bit programming, assembly language optimization, and parallel programming techniques.<br>
 
 ## Level 4 - Expert
-You don't have life bruuh . . .go touch some grass because i don't know what they do here<br>
-And why are you learning this . . . Wanna fight Lana Rohodas kid or what?
+<!--- You don't have life bruuh . . .go touch some grass because i don't know what they do here-->
+<!--- And why are you learning this . . . Wanna fight Lana Rohodas kid or what?-->
