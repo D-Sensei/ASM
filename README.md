@@ -21,4 +21,4 @@ Unfortunately,  emu8086 doesn't work on Linux, but there are alternatives.
 [FASM (Flat Assembler)](https://flatassembler.net): FASM is another popular open-source assembler that runs on multiple platforms including Linux. It is known for its small size, speed, and flexibility.</br>
 [Yasm](https://yasm.tortall.net): Yasm is an open-source assembler that supports many output formats and is designed to be highly modular and extensible.<br>
 
-You try [virtualbox](https://www.virtualbox.org) or [VMware](https://www.vmware.com/in/products/workstation-player/workstation-player-evaluation.html) to run EMU8086 on your system.
+You can try [virtualbox](https://www.virtualbox.org) or [VMware](https://www.vmware.com/in/products/workstation-player/workstation-player-evaluation.html) to run EMU8086 on your system.
