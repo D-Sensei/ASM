@@ -8,7 +8,7 @@
 
 ## Level 2 From NΦVICE to Intermediate
 On this level, it's all about practising,believe me. Just don't skip anything. . . . <br>
--Go do some reverse engineering shit on . . . shady chinese programs<br>
+-Go do some reverse engineering sh*t on . . . shady chinese programs<br>
 . . . . What if it infects my system;<br>
 . . . . . .Bch,That's how we learn it, the hard way.<br>
 
