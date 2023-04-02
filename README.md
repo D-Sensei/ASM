@@ -10,10 +10,10 @@ Whether you're just starting out with assembly programming or looking to expand 
 Thank you for visiting, and happy coding!
 
 ## Installation
-### Windows
+### - Windows
 [Download EMU8086 here](https://emu8086-microprocessor-emulator.en.softonic.com)
 
-### Linux
+### - Linux
 Unfortunately,  emu8086 doesn't work on Linux, but there are alternatives.
 
 [NASM (Netwide Assembler)](https://www.nasm.us): NASM is a popular open-source assembly compiler that runs on multiple platforms including Linux. It supports several output formats and has many features that make it a powerful assembler.</br>
